@@ -18,11 +18,9 @@
 
 ---
 
-## 📂 Projects Showcase
-- 🔗 [DSA Practice Repo](https://github.com/SagarRawat0607/DSA-Practice) – Solutions to 500+ DSA problems in C++.
-- 🔗 [Portfolio Website](https://github.com/SagarRawat0607/Portfolio) – My personal portfolio built with React + Tailwind.
-- 🔗 [Machine Learning Models](https://github.com/SagarRawat0607/ML-Projects) – ML algorithms implemented from scratch.
-
+## 📂 Programming Profiles
+- 🔗 [LEETCODE](https://leetcode.com/u/sAgArAwAt/) 
+- 🔗 [CODECHEF](https://www.codechef.com/users/sagarawat67) 
 ---
 
 ## 📊 GitHub Stats & Badges
@@ -37,5 +35,5 @@
 ## ✨ Fun & Motivation
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
-⚡ Currently working on improving **System Design & Competitive Programming**.  
-📫 Reach me at: **sagarrawat@example.com** | [LinkedIn](https://www.li)
+⚡ Currently working on improving **Programming Skills**.  
+📫 Reach me at: **sagarrawat6.7.2005@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sagar-rawat-720788353/)
